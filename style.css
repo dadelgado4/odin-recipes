@@ -1,0 +1,39 @@
+* {
+    text-align: center;
+}
+
+
+.title, .title2 {
+    font-family:'Courier New', Courier, monospace;
+    background-color: midnightblue;
+    color: azure;
+}
+
+.title2 {
+    font-style: italic;
+}
+
+
+
+.li1, .li2 {
+    background-color: midnightblue;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.li2 {
+    background-color: palevioletred;
+    color: black;
+}
+
+.li1, .li2 {
+    font-size: large;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
